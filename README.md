@@ -1,3 +1,3 @@
 # github-user-finder
-for understanding git app 
+for understanding github app 
 with vanila javascript
